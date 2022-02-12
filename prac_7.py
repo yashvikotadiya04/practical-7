@@ -1,6 +1,5 @@
 #ID: 20CE045
 #NAME: YASHVI KOTADIYA
-#Github repository link:
 
 T = int(input())                #number of test cases
 for i in range(T):
